@@ -14,8 +14,6 @@ management:
         include: "*"
       base-path: "/manage"
 
-  server:
-    port: 9292
 
 info:
   app:
